@@ -1,0 +1,17 @@
+{
+ "quality": 3,
+ "shadows": 3,
+ "grass": 2,
+ "view": 2,
+ "ao": 1,
+ "bloom": 1,
+ "fxaa": 1,
+ "fov": 100,
+ "fullscreen": 1,
+ "vsync": 1,
+ "show_fps": 1,
+ "sens": 1.0,
+ "invert": 0,
+ "volume": 80,
+ "head_bob": 1
+}

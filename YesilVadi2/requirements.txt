@@ -1,0 +1,3 @@
+ursina>=8.0
+numpy
+pillow
